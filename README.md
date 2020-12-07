@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, next.js, gatsby, graphql**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ronald3217?tab=repositories](https://github.com/Ronald3217)
+- 👨‍💻 All of my projects are available at [https://github.com/Ronald3217](https://github.com/Ronald3217?tab=repositories)
 
 
 <h3 align="left">Languages and Tools:</h3>
